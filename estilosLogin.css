@@ -1,0 +1,11 @@
+/**Login **/
+
+.fondoLogin {
+    background-color:#90a4ae;  
+}
+
+.contenedor { 
+    display: flex; flex-flow:column; align-items:center; justify-content:center; width: 100%; min-height: 100%; background: #90a4ae;
+    padding-bottom: 30px;
+    padding-top: 100px;
+}
